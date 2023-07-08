@@ -1,5 +1,10 @@
 # React and Component-Based Architecture
 
+## Links
+
+[Invision](https://rogerreyes807252.invisionapp.com/freehand/Class301n30-class-01-cwxUr1Pmv)
+[Replit](https://replit.com/@RogerMReyes/301n31-class01#index.js)
+
 ## Overview
 
 In this class we will be covering some new topics and reviewing concepts you should already be familiar with.
