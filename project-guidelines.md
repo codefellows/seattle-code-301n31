@@ -222,7 +222,7 @@ Also, use this time to discuss any interpersonal issues that may arise. It is be
 
 ## Standup
 
-Every day, the instructional team with circulate to your group for a formal standup. Standup should take approximately 10 minutes per team. Some instructors will opt for a second standup later in the day.
+Every class, the instructional team with circulate to your group for a formal standup. Standup should take approximately 10 minutes per team. Some instructors will opt for a second standup later in the class.
 
 _Why:_
 > Standups give the instructional team insight into the current status of your project and the progress the team hopes to make each day.
@@ -385,7 +385,7 @@ Technical merit is graded based on the following criteria:
 ### Front-End
 
 - Good and proper use of React
-  - Installed and configured using create-react-app
+  - React project can be installed and configured
   - Clear, readable, and efficient structure
   - Proper use of ES6 Class Based Components, extending from `React.Component`
   - Managing component state using `this.state` and `this.setState`
@@ -410,7 +410,7 @@ Technical merit is graded based on the following criteria:
 
 ### Back-End
 
-- The project must utilize at least one third-party API
+The project must utilize at least one AI-powered third-party API.
 
 - Server side code must:
   - Use Node and Express, and other NPM packages as appropriate
